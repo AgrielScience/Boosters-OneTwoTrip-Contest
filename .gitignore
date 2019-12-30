@@ -1,0 +1,20 @@
+data/*.csv
+*.pkl
+*.pth
+*.pop-os
+*.txt
+*.idea
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
